@@ -4,6 +4,6 @@ Descrpition: This is the master's research thesis specificially designed at RMIT
 
 Project Details:
 1) Dataset: The dataset uploaded as a zip file is to ensure to protect the privacy of the user (me) as well as further developing this project as freely as possible. Please unzip them before proceeding.
-2) Neural Network Training.
+2) Neural Network Training: Strapped inside the ipynb Jypyter Notebook file with the code required to extract YOLOv% model, training, and testing.
 3) Gazebo Files: With conjunction with 3D models by Nguyen et al (https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2Faioz-ai%2FIROS20_NMFNet&sa=D&sntz=1&usg=AOvVaw19BJuCfsK83J5Bunjm1KTY), the only folder and file is the world file made of these models.
 
